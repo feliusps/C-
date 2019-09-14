@@ -1,2 +1,1 @@
-# C++
-C++ code CIS 180
+# C++ code CIS 180
