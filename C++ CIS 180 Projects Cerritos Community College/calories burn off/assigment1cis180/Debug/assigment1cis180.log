@@ -1,0 +1,4 @@
+﻿  assigment1cis180.cpp
+c:\users\copan\documents\visual studio 2017\projects\assigment1cis180\assigment1cis180\assigment1cis180.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  assigment1cis180.vcxproj -> C:\Users\copan\Documents\Visual Studio 2017\Projects\assigment1cis180\Debug\assigment1cis180.exe
+  assigment1cis180.vcxproj -> C:\Users\copan\Documents\Visual Studio 2017\Projects\assigment1cis180\Debug\assigment1cis180.pdb (Partial PDB)

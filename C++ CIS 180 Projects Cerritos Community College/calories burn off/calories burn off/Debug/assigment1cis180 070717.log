@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  assigment1cis180 070717.cpp
+c:\users\copan\documents\visual studio 2017\projects\assigment1cis180 070717\assigment1cis180 070717\assigment1cis180 070717.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  assigment1cis180 070717.vcxproj -> c:\users\copan\documents\visual studio 2017\Projects\assigment1cis180 070717\Debug\assigment1cis180 070717.exe
+  assigment1cis180 070717.vcxproj -> c:\users\copan\documents\visual studio 2017\Projects\assigment1cis180 070717\Debug\assigment1cis180 070717.pdb (Partial PDB)
