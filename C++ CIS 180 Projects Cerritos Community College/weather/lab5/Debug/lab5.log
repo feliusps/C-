@@ -1,0 +1,7 @@
+﻿  lab5.cpp
+c:\users\copan\documents\visual studio 2017\projects\lab5\lab5\lab5.cpp(36): warning C4101: 'months': unreferenced local variable
+c:\users\copan\documents\visual studio 2017\projects\lab5\lab5\lab5.cpp(81): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\copan\documents\visual studio 2017\projects\lab5\lab5\lab5.cpp(105): warning C4700: uninitialized local variable 'DRY_RATE' used
+c:\users\copan\documents\visual studio 2017\projects\lab5\lab5\lab5.cpp(106): warning C4700: uninitialized local variable 'RAIN_RATE' used
+  lab5.vcxproj -> C:\Users\copan\documents\visual studio 2017\Projects\lab5\Debug\lab5.exe
+  lab5.vcxproj -> C:\Users\copan\documents\visual studio 2017\Projects\lab5\Debug\lab5.pdb (Partial PDB)
