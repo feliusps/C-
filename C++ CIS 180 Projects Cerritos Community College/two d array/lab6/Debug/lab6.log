@@ -1,0 +1,4 @@
+﻿  lab6.cpp
+c:\users\copan\documents\visual studio 2017\projects\lab6\lab6\lab6.cpp(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  lab6.vcxproj -> C:\Users\copan\documents\visual studio 2017\Projects\lab6\Debug\lab6.exe
+  lab6.vcxproj -> C:\Users\copan\documents\visual studio 2017\Projects\lab6\Debug\lab6.pdb (Partial PDB)
