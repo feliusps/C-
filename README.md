@@ -1,4 +1,4 @@
-Professional Certificate in C++ Programming
+# Professional Certificate in C++ Programming
 This Professional Certificate program takes you right from the fundamentals and gradually into the powerful, fast and popular object-oriented programming language of C++. 
 including Fundamental concepts of programming using C++ including Data Types, Operators and Control Structures
 Build logic using Arrays, Pointers and Functions
